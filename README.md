@@ -21,13 +21,15 @@
   <li><b> How do I approach developing programs?</b>
     <ul><li> <i>What new development strategies did you use while working on your 3D scene?</i>
       <br> New development strategies that I used while working on my 3D scene included organizing codes into sections that make sense in sequential order rather than coding based on what I felt like coding at that moment. By doing this, it helped me to visualize how OpenGL works from setting up variables to setting up arrays to creating VBOs and VAOS to actually drawing the items once textures and shaders were created. Doing this also made finding errors easier, so I hope to continue this when working on other programs.
-      <br><br>
       </li></ul>
     
-    <ul><li> <b>How did iteration factor into your development?</b>
+     <br><br>
+    
+    <ul><li> <i>How did iteration factor into your development?</i>
       <br> Iteration factored into my development when I worked in different stages, starting with planning and moving on to sketching and then coding. Each time I ran into a wall, I returned to the planning stage again, made updates to sketches if necessary, and then made changes based on the different tactics that I created during the next iteration of the planning stage.
-      <br><br>
-  </li></ul>
+     </li></ul>
+    
+         <br><br>
     
     
 <ul><li> <b>How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?</b>

@@ -24,9 +24,18 @@
       <br><br>
       </li></ul>
     
-<ul><li> How did iteration factor into your development?</li></ul>
-<ul><li> How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?</li></ul>
+    <ul><li> <b>How did iteration factor into your development?</b>
+      <br> Iteration factored into my development when I worked in different stages, starting with planning and moving on to sketching and then coding. Each time I ran into a wall, I returned to the planning stage again, made updates to sketches if necessary, and then made changes based on the different tactics that I created during the next iteration of the planning stage.
+      <br><br>
+  </li></ul>
+    
+    
+<ul><li> <b>How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?</b>
+  <br> My approach to development evolved throughout the milestones through the introduction of approaching programs from multiple angles. Before this course, I only considered that there was a "right" and "wrong" way to create a program and that there was little flexibility beyond that. After this course, though, I realized that there are many different tactics available. For example, our weekly videos approached drawing one way, but the tutorials in each module's assignment approached it another way. No way was "right" or "wrong". It just offered different perspectives on how to accomplish the same task. In short, I evolved through accepting more flexibility and learning to choose what feels organic to the plans I create.
+  <br><br>
+  </li></ul>
 <br><br>
+    
 <li>How can computer science help me in reaching my goals?
 <ul><li> How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?</li></ul>
 <ul><li> How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?</li></ul>

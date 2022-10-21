@@ -27,7 +27,6 @@
 </li></ul>
        
 <ul><li> <i>How did iteration factor into your development?</i>
-<br> (I am not sure why this question keeps turning into a textbox...)
 <br> Iteration factored into my development when I worked in different stages, starting with planning and moving on to sketching and then coding. Each time I ran into a wall, I returned to the planning stage again, made updates to sketches if necessary, and then made changes based on the different tactics that I created during the next iteration of the planning stage. 
 <br><br>
 </li></ul>

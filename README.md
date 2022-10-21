@@ -1,9 +1,20 @@
 # CS330 README: Q&A
 <br><ul>
-<li> How do I approach designing software?</li>
-<ul><li> What new design skills has your work on the project helped you to craft?</li></ul>
-<ul><li> What design process did you follow for your project work?</li></ul>
-<ul><li>How could tactics from your design approach be applied in future work?</li></ul>
+  <li> <b>How do I approach designing software?</b></li>
+  
+  <ul><li> <i>What new design skills has your work on the project helped you to craft?</i>
+  <br> Design skills that I developed while working on the project include the ability to draw and physically map out a design that I am trying to make. Usually, I write a list of things that I need to do in order, but since I was working with three-dimensional objects I had to start sketching out beforehand how things would look on the plane that I used. Especially as I move more towards front-end development, drawing out the layouts that I wish to make is a design skill that I hope to carry from this project to future projects.
+    <br><br>
+  </li></ul>
+  
+  <ul><li> <i>What design process did you follow for your project work?</i>
+  <br>
+    <br><br>
+  </li></ul>
+  
+<ul><li>How could tactics from your design approach be applied in future work?
+  </li></ul>
+  
 <br><br>
 <li> How do I approach developing programs?
 <ul><li> What new development strategies did you use while working on your 3D scene?</li></ul>
